@@ -48,13 +48,11 @@ DuckShot is a retro-style 2D shooting game written entirely in x86 Assembly Lang
 
 > Tip: Use DOSBox with `cycles=3000` for smoother performance.
 
-
 ## File Structure
 
 - `duckshot.asm` – Main game logic and procedures
 - `file.txt` – Output file for storing player names and scores (auto-created)
 - `README.md` – Project documentation
-
 
 ## Educational Value
 
@@ -64,12 +62,6 @@ This project demonstrates:
 - Real-mode file I/O in DOS
 - Game design using procedural programming in Assembly
 - Performance-efficient collision logic
-
-
-## License
-
-This project is released for educational and personal use. Attribution is appreciated if reused or modified.
-
 
 ## Credits
 
